@@ -1,16 +1,18 @@
-# Health Care Dataset Analysis and Dashboard
+## Health Care Dataset Analysis and Dashboard
 
-## Overview
-This project involves analyzing a healthcare dataset to extract actionable insights related to patient demographics, billing, treatment trends, and hospital performance metrics. The analysis was performed using **MS Excel** with the goal of providing a comprehensive report and interactive dashboard summarizing key findings. The dashboard includes Pivot Tables and visualizations like bar charts, line charts, and pie charts to visually represent the results.
+### Overview
+This project involves analyzing a healthcare dataset to extract actionable insights related to patient demographics, billing, treatment trends, and medicine performance metrics. The analysis was performed using **MS Excel** with the goal of providing a comprehensive report and interactive dashboard summarizing key findings. The dashboard includes Pivot Tables and visualizations like bar charts, line charts, and pie charts to visually represent the results.
 
-## Objective
+![Dashboard](![Alt text](https://github.com/tanmay-045/MS-Excel-Reports-and-Dashboards/blob/main/US%20Health%20Care%20Dataset/Dashboard.png)
+
+
+### Objective
 The primary objective of this project is to explore the healthcare data, identify trends, and draw meaningful insights to help understand:
 - Patient distribution based on demographics (age, gender).
 - Average billing by medical condition.
-- Patient volumes by hospital and department.
 - Time of admission's effect on billing and length of stay.
 
-## Steps Performed
+### Steps Performed
 
 ### 1. Data Cleaning
 - Removed duplicates and handled missing values in key columns like "Patient ID", "Billing Amount", and "Medical Condition".
@@ -36,7 +38,7 @@ To help convey the insights visually, we created several charts:
 - **Line Charts** to show trends in patient admissions and treatment over years.
 - **Pie Charts** for distribution of patient's admission types.
 
-## Key Insights
+### Key Insights
 
 ### 1. **Average Billing by Condition**
    The average billing amount for various medical conditions was analyzed, revealing that complex conditions tend to have a significantly higher billing amount than common ones.
@@ -50,7 +52,7 @@ To help convey the insights visually, we created several charts:
 ### 4. **Stay Timing and Billing**
    Billing amounts varied depending on the length of staying, from time of admission, with higher billing for certain medical conditions.
 
-## Conclusion
+### Conclusion
 This project provides a thorough analysis of the healthcare data, with visual storytelling to highlight patterns in patient demographics, medicine performance, and billing trends. The interactive dashboard can be used by healthcare administrators to monitor key metrics and make data-driven decisions.
 
 ### Tools Used
